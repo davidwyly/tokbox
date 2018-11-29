@@ -17,7 +17,7 @@ const options = {
     }[pubSub][type];
   },
   controlsContainer: '#controls',
-  packages: ['textChat', 'annotation'],
+  packages: ['textChat', 'screenSharing', 'annotation', 'archiving'],
   communication: {
     callProperties: null, // Using default
   },
@@ -42,8 +42,8 @@ const options = {
   },
   credentials: {
     apiKey: "46227952",
-    sessionId: "2_MX40NjIyNzk1Mn5-MTU0MzUyNzExMjY0N35LTThLSEZPcWttMGFVOFFWVW1yMDlFU3Z-fg",
-    token: "T1==cGFydG5lcl9pZD00NjIyNzk1MiZzaWc9N2Y4ZTRhNTViYmFjZGYxM2FkOWQ1M2YxNTE0MmQ1NjY5MmRjOGYyZjpzZXNzaW9uX2lkPTJfTVg0ME5qSXlOemsxTW41LU1UVTBNelV5TnpFeE1qWTBOMzVMVFRoTFNFWlBjV3R0TUdGVk9GRldWVzF5TURsRlUzWi1mZyZjcmVhdGVfdGltZT0xNTQzNTI3MTMwJm5vbmNlPTAuODI0NjY5MTEyOTE2NzI4MyZyb2xlPXB1Ymxpc2hlciZleHBpcmVfdGltZT0xNTQ2MTE5MTI5JmluaXRpYWxfbGF5b3V0X2NsYXNzX2xpc3Q9"
+    sessionId: "2_MX40NjIyNzk1Mn5-MTU0MzQ0MTA3MjM5MX44S08rUTAwMkNmWkhzSUdJMlZubGUvQ0V-fg",
+    token: "T1==cGFydG5lcl9pZD00NjIyNzk1MiZzaWc9NGM5YWVmNjIzOWY1NDRmNTk3NWEzZTc2MmVjOThmNTc1YWEzYzU0YTpzZXNzaW9uX2lkPTJfTVg0ME5qSXlOemsxTW41LU1UVTBNelEwTVRBM01qTTVNWDQ0UzA4clVUQXdNa05tV2toelNVZEpNbFp1YkdVdlEwVi1mZyZjcmVhdGVfdGltZT0xNTQzNDQxMTMxJm5vbmNlPTAuNzUyNDkzOTI0MTA2MTY4MyZyb2xlPXB1Ymxpc2hlciZleHBpcmVfdGltZT0xNTQ2MDMzMTMwJmluaXRpYWxfbGF5b3V0X2NsYXNzX2xpc3Q9"
   },
 };
 
